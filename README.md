@@ -7,6 +7,7 @@ Reverse Image Search
   <li>https://bing.com/images/feed/</li>
   <li>https://images.google.com/</li>
   <li>https://duplichecker.com/reverse-image-search.php</li>
+  <li>https://imageidentify.com/</li>
   <li>https://osintcombine.com/reverse-image-analyzer/</li>
   <li>https://reverse-image-search.org/</li>
   <li>https://stolencamerafinder.com/</li>
