@@ -1,4 +1,5 @@
 # Reverse-Image-OSINT
+<p>On this page you will find links to useful image search websites.</p> 
 <ul>
 <br>
 Reverse Image Search
@@ -14,7 +15,7 @@ Reverse Image Search
   <li>https://tineye.com/</li>
   <li>https://yandex.com/images/</li>
 <br>
-Stock image Search
+Stock Image Search
 <p>
   <li>https://flickr.com/</li>
   <li>https://gettyimages.com/</li>
@@ -24,8 +25,8 @@ Stock image Search
 <br>
 Facial Recognition Image Search
 <p>
-<li>https://facecheck.id/</li>
-<li>https://pimeyes.com/en</li>
-<li>https://osintcombine.com/post/facial-recognition-for-verification-missing-persons</li>
-<li>https://search4faces.com/en/</li>
+ <li>https://facecheck.id/</li>
+ <li>https://pimeyes.com/en</li>
+ <li>https://osintcombine.com/post/facial-recognition-for-verification-missing-persons</li>
+ <li>https://search4faces.com/en/</li>
 </ul>
