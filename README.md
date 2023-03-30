@@ -10,7 +10,8 @@ Image Search
 <li>https://images.google.com/</li>
 <li>https://openverse.org/</li>
 <li>https://pinterest.com/</li>
-<li>https://yandex.com/images?redircnt=1558255071.1</li>
+  <li>https://shutterstock.com/</li>
+<li>https://yandex.com/images/<li>
 <br>
 Facial Recognition Image Search
 <p>
