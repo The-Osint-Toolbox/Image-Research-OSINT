@@ -1,5 +1,5 @@
 # Reverse-Image-OSINT
-<p>On this page you will find links to useful image search websites.</p> 
+<p>On this page you will find links to useful image search websites. Please remember that you are loading images to 3rd party websites and these images maybe sensitive</p> 
 <ul>
 <br>
 Reverse Image Search
