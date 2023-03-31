@@ -1,32 +1,34 @@
-# Reverse-Image-OSINT
-<p>On this page you will find links to useful image search websites. Please remember that you are loading images to 3rd party websites and these images maybe sensitive</p> 
+## Reverse-Image-OSINT
+<p>On this page you will find links to useful image search websites. Please remember that you are loading images to 3rd party websites and these images maybe sensitive.</p> 
 <ul>
-<br>
+<br/>
 Reverse Image Search
-<p>
-  <li>https://berify.com/</li>
-  <li>https://bing.com/images/feed/</li>
-  <li>https://images.google.com/</li>
-  <li>https://duplichecker.com/reverse-image-search.php</li>
-  <li>https://imageidentify.com/</li>
-  <li>https://osintcombine.com/reverse-image-analyzer/</li>
-  <li>https://reverse-image-search.org/</li>
-  <li>https://stolencamerafinder.com/</li>
-  <li>https://tineye.com/</li>
-  <li>https://yandex.com/images/</li>
-<br>
+<br><br/>
+  <li><a href="https://berify.com/">Berify</a></li>
+  <li><a href="https://bing.com/images/feed/">Bing Image Search</a></li>
+  <li><a href="https://images.google.com/">Google Image Search</a></li>
+  <li><a href="https://duplichecker.com/reverse-image-search.php">Duplichecker</a></li>
+  <li><a href="https://imageidentify.com/">Image Identity</a></li>
+  <li><a href="https://osintcombine.com/reverse-image-analyzer/">Osint Combine</a></li>
+  <li><a href="https://www.repostsleuth.com/search">Repost Sleuth</a></li>
+  <li><a href="https://reverse-image-search.org/">Reverse Image Search</a></li>
+  <li><a href="https://chrome.google.com/webstore/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci?hl=en">Search By Image</a></li>
+  <li><a href="https://stolencamerafinder.com/">Stolen Camera Finder</a></li>
+  <li><a href="https://tineye.com/">Tineye</a></li>
+  <li><a href="https://yandex.com/images/">Yandex Image Search</a></li>
+<br/>
 Stock Image Search
-<p>
-  <li>https://flickr.com/</li>
-  <li>https://gettyimages.com/</li>
-  <li>https://openverse.org/</li>
-  <li>https://pinterest.com/</li>
-  <li>https://shutterstock.com/</li>
-<br>
+<br><br/>
+  <li><a href="https://flickr.com/">Flickr</a></li>
+  <li><a href="https://gettyimages.com/">Getty Images</li>
+  <li><a href="https://openverse.org/">Openverse</a></li>
+  <li><a href="https://pinterest.com/">Pinterest</a></li>
+  <li><a href="https://shutterstock.com/">Shutterstock</a></li>
+<br/>
 Facial Recognition Image Search
-<p>
- <li>https://facecheck.id/</li>
- <li>https://pimeyes.com/en</li>
- <li>https://osintcombine.com/post/facial-recognition-for-verification-missing-persons</li>
- <li>https://search4faces.com/en/</li>
+<br><br/>
+ <li><a href="https://facecheck.id/">Facecheck</a></li>
+ <li><a href="https://pimeyes.com/en">Pimeyes</a></li>
+ <li><a href="https://osintcombine.com/post/facial-recognition-for-verification-missing-persons">Osint Combine</a></li>
+ <li><a href="https://search4faces.com/en/">Search4Faces</a></li>
 </ul>
