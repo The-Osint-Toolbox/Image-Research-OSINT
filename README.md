@@ -1,5 +1,5 @@
-## Reverse-Image-OSINT
-<p>On this page you will find links to useful image search websites. Please remember that you are loading images to 3rd party websites and these images maybe sensitive.</p> 
+## Image-Research-OSINT
+<p>On this page you will find links to useful image search websites. Please remember that you are loading images to 3rd party websites and these images maybe sensitive. You may not be able to guanrantee that your image will not become part of a dataset.</p> 
 <ul>
 <br/>
 Reverse Image Search
@@ -27,8 +27,30 @@ Stock Image Search
 <br/>
 Facial Recognition Image Search
 <br><br/>
+<li><a href="https://aws.amazon.com/rekognition/?nc2=h_ql_prod_ml_rek/">Amaozn Rekognition</a></li>
  <li><a href="https://facecheck.id/">Facecheck</a></li>
+ <li><a href="https://azure.microsoft.com/en-au/products/cognitive-services/face/">Micorsoft Facia; Recognition</a></li>
  <li><a href="https://pimeyes.com/en">Pimeyes</a></li>
- <li><a href="https://osintcombine.com/post/facial-recognition-for-verification-missing-persons">Osint Combine</a></li>
  <li><a href="https://search4faces.com/en/">Search4Faces</a></li>
+<br/>
+Image Investigation Tools
+<br><br/>
+ <li><a href="https://exifdata.com/">Exif Data</a></li>
+ <li><a href="https://exiftool.org/">Exif Tool by Phil Harvey</a></li>
+ <li><a href="https://fotoforensics.com/">Foto Forensics</a></li>
+ <li><a href="https://imageforensic.org/">Image Forensics</a></li>
+ <li><a href="https://invid-project.eu/">Invid Project</a></li>
+ <li><a href="https://mever.iti.gr/forensics/">MeVer</a></li>
+ <li><a href="https://29a.ch/photo-forensics/#forensic-magnifier">Photo-Forensics</a></li>
+ <li><a href="https://www.thexifer.net/">The Exifer</a></li>
+ <li><a href="https://www.verexif.com/en/">Verexif</a></li>
+ <li><a href="https://translate.yandex.com/ocr">Yandex OCR</a></li>
+<br>
+Image Manipulation
+<br><br/>
+ <li><a href="https://img2go.com/">Img 2 Go</a></li>
+ <li><a href="https://imglarger.com/">Image Enlarger</a></li>
+ <li><a href="https://photoscissors.com/">Photo Scissors</a></li>
+ <li><a href="https://www.remove.bg/">Remove Background</a></li>
+ <li><a href="https://www.restorephotos.io/">Restore Image</a></li>
 </ul>
