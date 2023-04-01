@@ -29,7 +29,7 @@ Facial Recognition Image Search
 <br><br/>
 <li><a href="https://aws.amazon.com/rekognition/?nc2=h_ql_prod_ml_rek/">Amaozn Rekognition</a></li>
  <li><a href="https://facecheck.id/">Facecheck</a></li>
- <li><a href="https://azure.microsoft.com/en-au/products/cognitive-services/face/">Micorsoft Facia; Recognition</a></li>
+ <li><a href="https://azure.microsoft.com/en-au/products/cognitive-services/face/">Micorsoft Facial Recognition</a></li>
  <li><a href="https://pimeyes.com/en">Pimeyes</a></li>
  <li><a href="https://search4faces.com/en/">Search4Faces</a></li>
 <br/>
