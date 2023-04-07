@@ -27,7 +27,10 @@
 </table>
 <ul>
   <li><a href="https://flickr.com/">Flickr</a></li>
+   <p>Flickr is an American image hosting and video hosting service, as well as an online community.</p>
   <li><a href="https://gettyimages.com/">Getty Images</li>
+  <li><a href="https://imgur.com/">https://Imgur</a></li>
+   <p>Imgur is an American online image sharing and image hosting service with a focus on social gossip.</p>
   <li><a href="https://openverse.org/">Openverse</a></li>
   <li><a href="https://pinterest.com/">Pinterest</a></li>
   <li><a href="https://shutterstock.com/">Shutterstock</a></li>
