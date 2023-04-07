@@ -37,6 +37,7 @@
   <li><a href="https://pinterest.com/">Pinterest</a></li>
    <p>Pinterest is an American image sharing and social media service.</p>
   <li><a href="https://shutterstock.com/">Shutterstock</a></li>
+   <p>Shutterstock is an American provider of stock photography, stock footage.</p>
 </ul>  
 <table>
    <tr>
