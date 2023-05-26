@@ -11,7 +11,7 @@
   <li><a href="https://bing.com/images/feed/">Bing Image Search</a></li>
   <li><a href="https://images.google.com/">Google Image Search</a></li>
   <li><a href="https://duplichecker.com/reverse-image-search.php">Duplichecker</a></li>
-  <li><a href="https://github.com/GONZOsint/gvision">Gonzo GVision</li>
+  <li><a href="https://gvision.streamlit.app/">Gonzo GVision</li>
    <p>GVision is a reverse image search app that use Google Cloud Vision API to detect landmarks and web entities from images, helping you gather valuable information quickly and easily.</p>
   <li><a href="https://imageidentify.com/">Image Identity</a></li>
   <li><a href="https://osintcombine.com/reverse-image-analyzer/">Osint Combine</a></li>
