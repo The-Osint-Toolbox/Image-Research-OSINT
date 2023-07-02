@@ -22,6 +22,8 @@
    <p>GVision is a reverse image search app that use Google Cloud Vision API to detect landmarks and web entities from images, helping you gather valuable information quickly and easily.</p>
   <li><a href="https://imageidentify.com/">Image Identity</a></li>
    <p>Image recognition site – just drag your image & identify.</p>
+  <li><a href="https://www.numlookup.com/reverse-image-search">NumLookup</a></li>
+    <p>AI-powered reverse image search companion. Harnessing the power of advanced machine learning algorithms.</p>
   <li><a href="https://osintcombine.com/reverse-image-analyzer/">Osint Combine</a></li>
    <p>This tool is designed to make reverse image searching more effective. It provide tabulated results from Google & Yandex.</p>
   <li><a href="https://www.repostsleuth.com/search">Repost Sleuth</a></li>
