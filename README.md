@@ -23,7 +23,7 @@
   <li><a href="https://imageidentify.com/">Image Identity</a></li>
    <p>Image recognition site – just drag your image & identify.</p>
   <li><a href="https://googlelens.imagesniper.eu/">Image Sniper</a></li>
-    <p>Google reverse image search fix</p>  
+    <p>Google reverse image search fix.</p>  
   <li><a href="https://www.numlookup.com/reverse-image-search">NumLookup</a></li>
     <p>AI-powered reverse image search companion. Harnessing the power of advanced machine learning algorithms.</p>
   <li><a href="https://osintcombine.com/reverse-image-analyzer/">Osint Combine</a></li>
