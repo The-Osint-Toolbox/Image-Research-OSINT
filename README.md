@@ -2,7 +2,7 @@
 <p align="center">
   <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
 </p>
-<p>On this page you will find links to useful image search websites. Please remember that you are loading images to 3rd party websites and these images maybe sensitive. You may not be able to guanrantee that your image will not become part of a dataset.</p> 
+<p>On this page you will find links to useful image search, investigation & manipulation websites and tools. Please remember if you are loading images to 3rd party websites that these images maybe sensitive. You may not be able to guanrantee that your image will not become part of a dataset.</p> 
 <br/>
 <table>
   <tr>
@@ -104,8 +104,12 @@
   </tr>
 </table>
 <ul> 
+ <li><a href="https://app.remini.ai/?v=3036fcfd-643f-45ba-8feb-ef125b0ca3eb-1691138203838">AI photo and video enhancer</a></li>
+ <li><a href="https://cleanup.pictures/">Cleanup Image</a></li> 
  <li><a href="https://img2go.com/">Img 2 Go</a></li>
  <li><a href="https://imglarger.com/">Image Enlarger</a></li>
+ <li><A href="https://neural.love/image-sharpen">Image Sharpen</A></li>
+ <li><a href="https://www.fotor.com/photo-editor-app/editor/basic">Photo Editor</a></lI> 
  <li><a href="https://photoscissors.com/">Photo Scissors</a></li>
  <li><a href="https://www.remove.bg/">Remove Background</a></li>
  <li><a href="https://www.restorephotos.io/">Restore Image</a></li>
