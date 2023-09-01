@@ -36,6 +36,8 @@
    <p>Reverse Image Search is an image retrieval query technique based on content - CBIR (content based image retrieval).</p>
   <li><a href="https://stolencamerafinder.com/">Stolen Camera Finder</a></li>
    <p>Use the serial number stored in your photos to search the web for other photos taken with the same camera.</p>
+  <li><a href="https://www.plugger.ai/models/street-clip">Street CLIP</a></li>  
+   <p>AI reverse image tool desgined especially for street images.</p>
   <li><a href="https://tineye.com/">Tineye</a></li>
    <p>Reverse Image Search, find where images appear online.</p>
   <li><a href="https://yandex.com/images/">Yandex Image Search</a></li>
