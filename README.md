@@ -14,6 +14,8 @@
    <p>Reverse image search to help you Find stolen Images and Videos.</p> 
   <li><a href="https://bing.com/images/feed/">Bing Image Search</a></li>
    <p>Link to Bing's reverse image webpage.</p>
+  <li><a href="https://github.com/ThoughtfulDev/EagleEye?ref=osint-team-open-source-intelligence-blog">Eagle Eye</a></li> 
+   <p>Scans social media platforms for an uploaded image.</p>
   <li><a href="https://images.google.com/">Google Image Search</a></li>
    <p>Link to Google's reverse image webpage.</p>
   <li><a href="https://duplichecker.com/reverse-image-search.php">Duplichecker</a></li>
