@@ -99,6 +99,7 @@
  <li><a href="https://29a.ch/photo-forensics/#forensic-magnifier">Photo-Forensics</a></li>
  <li><a href="https://www.thexifer.net/">The Exifer</a></li>
  <li><a href="https://www.verexif.com/en/">Verexif</a></li>
+ <li><a href="https://exif.osint-tool.com/">Vortimo Exif Viewer</a></li>
  <li><a href="https://translate.yandex.com/ocr">Yandex OCR</a></li>
 </ul> 
 <br></br>
