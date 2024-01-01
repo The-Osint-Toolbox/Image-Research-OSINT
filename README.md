@@ -16,8 +16,8 @@
    <p>Link to Bing's reverse image webpage.</p>
   <li><a href="https://github.com/ThoughtfulDev/EagleEye?ref=osint-team-open-source-intelligence-blog">Eagle Eye</a></li> 
    <p>Scans social media platforms for an uploaded image.</p>
-<li><a href="https://facecheck.id/">Face Check</a></li> 
-   <p>Scans Social Media, using AI</p>
+  <li><a href="https://geospy.web.app/">Geospy</a></li>
+    <p>Geospy will try to locate where an image was taken using AI.</p>
   <li><a href="https://images.google.com/">Google Image Search</a></li>
    <p>Link to Google's reverse image webpage.</p>
   <li><a href="https://duplichecker.com/reverse-image-search.php">Duplichecker</a></li>
