@@ -34,6 +34,8 @@
     <p>AI-powered reverse image search companion. Harnessing the power of advanced machine learning algorithms.</p>
   <li><a href="https://osintcombine.com/reverse-image-analyzer/">Osint Combine</a></li>
    <p>This tool is designed to make reverse image searching more effective. It provide tabulated results from Google & Yandex.</p>
+   <li><a href="https://picarta.ai/">Picarta</a></li>
+    <p>Picarta will predict where a photo has been taken in the world using Artificial Intelligence.</p>
   <li><a href="https://www.repostsleuth.com/search">Repost Sleuth</a></li>
    <p>Reverse image search tool for Reddit.</p>
   <li><a href="https://reverse-image-search.org/">Reverse Image Search</a></li>
