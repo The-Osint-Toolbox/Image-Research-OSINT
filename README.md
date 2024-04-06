@@ -80,8 +80,8 @@
 <ul> 
  <li><a href="https://aws.amazon.com/rekognition/?nc2=h_ql_prod_ml_rek/">Amaozn Rekognition</a></li>
   <p>Amazon Rekognition offers pre-trained and customizable computer vision (CV) capabilities to extract information and insights from your images and videos.</p>
- <li><a href="https://www.faceplusplus.com/">Face++</a></li> 
-  <p>Can detect and locate human faces in an image and return high-precision face bounding box results.</p>
+ <li><a href="https://www.faceplusplus.com/">Face++</a></li>
+  <p>Can detect and locate human faces in an image and return high-precision face bounding box results.</p>
  <li><a href="https://facecheck.id/">Facecheck</a></li>
   <p>Upload a face of a person of interest and discover their social media profiles, appearances in blogs, video, and news websites.</p> 
  <li><a href="https://azure.microsoft.com/en-au/products/cognitive-services/face/">Micorsoft Facia; Recognition</a></li>
