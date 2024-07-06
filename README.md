@@ -34,7 +34,7 @@
    <p>Image Measurement is the service for measurement of an objects.</p>
   <li><a href="https://googlelens.imagesniper.eu/">Image Sniper</a></li>
     <p>Google reverse image search fix.</p>
-  <li><a href="NemesisAlm">NemesisAlm</a></li>
+  <li><a href="https://huggingface.co/NemesisAlm">NemesisAlm</a></li>
     <p>StreetClip Model used for classification - 92 countries supported</p>
   <li><a href="https://www.numlookup.com/reverse-image-search">NumLookup</a></li>
     <p>AI-powered reverse image search companion. Harnessing the power of advanced machine learning algorithms.</p>
