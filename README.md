@@ -97,7 +97,9 @@
  <li><a href="https://www.faceplusplus.com/">Face++</a></li>
   <p>Can detect and locate human faces in an image and return high-precision face bounding box results.</p>
  <li><a href="https://facecheck.id/">Facecheck</a></li>
-  <p>Upload a face of a person of interest and discover their social media profiles, appearances in blogs, video, and news websites.</p> 
+  <p>Upload a face of a person of interest and discover their social media profiles, appearances in blogs, video, and news websites.</p>
+ <li><a href="https://faceagle.com/">Faceagle</a></li> 
+  <p>A search engine for face, Search among 4,190,646 face images.</p>
  <li><a href="https://azure.microsoft.com/en-au/products/cognitive-services/face/">Micorsoft Facia; Recognition</a></li>
    <p>Image, and identification of a person by a match to your private repository or via photo ID.</p>
  <li><a href="https://pimeyes.com/en">Pimeyes</a></li>
