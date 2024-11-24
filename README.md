@@ -96,8 +96,8 @@
   </tr>
 </table>
 <ul>
- <li><a href="https://6mzld2.csb.app/">6mzld2</a></li> 
-  <p>Face detection and comparison.</p>
+ <li><a href="https://6mzld2.csb.app/">6mzld2</a></li>
+  <p>Face detection and comparison.</p>
  <li><a href="https://aws.amazon.com/rekognition/?nc2=h_ql_prod_ml_rek/">Amaozn Rekognition</a></li>
   <p>Amazon Rekognition offers pre-trained and customizable computer vision (CV) capabilities to extract information and insights from your images and videos.</p>
  <li><a href="https://www.faceplusplus.com/">Face++</a></li>
