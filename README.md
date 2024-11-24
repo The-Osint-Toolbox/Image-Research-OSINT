@@ -140,6 +140,7 @@
   </tr>
 </table>
 <ul>
+ <li><a href="https://huggingface.co/spaces/briaai/BRIA-RMBG-2.0">Backgrounbd Removal</a></li> 
  <li><a href="https://app.remini.ai/?v=3036fcfd-643f-45ba-8feb-ef125b0ca3eb-1691138203838">AI photo and video enhancer</a></li>
  <li><a href="https://cleanup.pictures/">Cleanup Image</a></li> 
  <li><a href="https://img2go.com/">Img 2 Go</a></li>
