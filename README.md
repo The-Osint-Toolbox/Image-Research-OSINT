@@ -60,8 +60,8 @@
    <p>AI reverse image tool desgined especially for street images.</p>
   <li><a href="https://tineye.com/">Tineye</a></li>
    <p>Reverse Image Search, find where images appear online.</p>
-  <li><a href="https://theyseeyourphotos.com/">They See Your Photos</a></li> 
-   <p>Reveal information about a photo.</p>
+  <li><a href="https://theyseeyourphotos.com/">They See Your Photos</a></li>
+   <p>Reveal information about a photo.</p>
   <li><a href="https://yandex.com/images/">Yandex Image Search</a></li>
    <p>Link to Yandex's reverse image webpage.</p>
 </ul>
@@ -124,7 +124,7 @@
 <ul>
  <li><a href="https://isitai.com/ai-image-detector/">AI-Generated Image Detector</a></li>
  <li><a href="https://huggingface.co/spaces/umm-maybe/AI-image-detector">AI Image Detector</a></li>
- <li><a href="https://www.aiornot.com/">Web- and API-based AI Image Detector</a></li>
+ <li><a href="https://www.aiornot.com/">Web - and API-based AI Image Detector</a></li>
  <li><a href="https://exifdata.com/">Exif Data</a></li>
  <li><a href="https://github.com/aydinnyunus/exiflooter">Exif Looter</a></li>
  <li><a href="https://exiftool.org/">Exif Tool by Phil Harvey</a></li>
