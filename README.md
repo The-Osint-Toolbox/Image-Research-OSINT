@@ -60,6 +60,8 @@
    <p>AI reverse image tool desgined especially for street images.</p>
   <li><a href="https://tineye.com/">Tineye</a></li>
    <p>Reverse Image Search, find where images appear online.</p>
+  <li><a href="https://theyseeyourphotos.com/">They See Your Photos</a></li> 
+   <p>Reveal information about a photo.</p>
   <li><a href="https://yandex.com/images/">Yandex Image Search</a></li>
    <p>Link to Yandex's reverse image webpage.</p>
 </ul>
