@@ -124,6 +124,7 @@
 <ul>
  <li><a href="https://isitai.com/ai-image-detector/">AI-Generated Image Detector</a></li>
  <li><a href="https://huggingface.co/spaces/umm-maybe/AI-image-detector">AI Image Detector</a></li>
+ <li><a href="https://www.aiornot.com/">Web- and API-based AI Image Detector</a></li>
  <li><a href="https://exifdata.com/">Exif Data</a></li>
  <li><a href="https://github.com/aydinnyunus/exiflooter">Exif Looter</a></li>
  <li><a href="https://exiftool.org/">Exif Tool by Phil Harvey</a></li>
