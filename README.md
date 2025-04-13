@@ -116,8 +116,10 @@
   <p>A search engine for face, Search among 4,190,646 face images.</p>
  <li><a href="https://faceonlive.com/face-search-online/">FaceOnLive</a></li>  
   <p>Explore FaceOnLive’s reverse face search to find where your photos appear online.</p> 
+ <li><a href="https://github.com/GONZOsint/deepfaceui">Gonzo DeepFaceUI</a></li> 
+  <p>DeepFace UI is a web application for facial recognition and analysis built with DeepFace.</p>
  <li><a href="https://azure.microsoft.com/en-au/products/cognitive-services/face/">Micorsoft Facia; Recognition</a></li>
-   <p>Image, and identification of a person by a match to your private repository or via photo ID.</p>
+  <p>Image, and identification of a person by a match to your private repository or via photo ID.</p>
  <li><a href="https://pimeyes.com/en">Pimeyes</a></li>
   <p>PimEyes is an online face search engine that goes through the Internet to find pictures containing given faces.</p>
  <li><a href="https://search4faces.com/en/">Search4Faces</a></li>
