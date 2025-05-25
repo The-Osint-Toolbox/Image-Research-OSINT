@@ -116,6 +116,8 @@
   <p>A search engine for face, Search among 4,190,646 face images.</p>
  <li><a href="https://faceonlive.com/face-search-online/">FaceOnLive</a></li>  
   <p>Explore FaceOnLive’s reverse face search to find where your photos appear online.</p> 
+ <li><a href="https://faceseek.online/">Faceseek</a></li> 
+  <p>Search faces across the internet and social media to verify identity.</p>
  <li><a href="https://github.com/GONZOsint/deepfaceui">Gonzo DeepFaceUI</a></li> 
   <p>DeepFace UI is a web application for facial recognition and analysis built with DeepFace.</p>
  <li><a href="https://azure.microsoft.com/en-au/products/cognitive-services/face/">Micorsoft Facia; Recognition</a></li>
