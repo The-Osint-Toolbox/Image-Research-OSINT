@@ -148,6 +148,7 @@
  <li><a href="https://exiftool.org/">Exif Tool by Phil Harvey</a></li>
  <li><a href="https://fotoforensics.com/">Foto Forensics</a></li>
  <li><a href="https://imageforensic.org/">Image Forensics</a></li>
+ <li><a href="https://imagewhisperer.org/">Image Whisperer</a></li>
  <li><a href="https://invid-project.eu/">Invid Project</a></li>
  <li><a href="https://mever.iti.gr/forensics/">MeVer</a></li>
  <li><a href="https://29a.ch/photo-forensics/#forensic-magnifier">Photo-Forensics</a></li>
