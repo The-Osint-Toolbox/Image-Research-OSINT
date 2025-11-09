@@ -18,6 +18,8 @@
    <p>Scans social media platforms for an uploaded image.</p>
   <li><a href="https://geospy.web.app/">Geospy</a></li>
     <p>Geospy will try to locate where an image was taken using AI.</p>
+  <li><a href="https://huggingface.co/spaces/AceXRoux/GeoVLM">GeoVLM</a></li>  
+   <p>AI-Powered Geolocation.</p>
   <li><a href="https://images.google.com/">Google Image Search</a></li>
    <p>Link to Google's reverse image webpage.</p>
   <li><a href="https://duplichecker.com/reverse-image-search.php">Duplichecker</a></li>
