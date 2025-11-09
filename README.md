@@ -70,6 +70,8 @@
    <p>Reveal information about a photo.</p>
   <li><a href="https://visualorigins.digitaldigging.org/">Visual Origins</a></li> 
    <p>Discover when images first appeared online.</p>  
+  <li><a href="https://www.whereisthisphoto.com/">Where Is This Photo</a></li>
+   <p>Photo location finder uses advanced AI image geolocation and reverse photo location search to identify GPS coordinates from pictures.</p>
   <li><a href="https://yandex.com/images/">Yandex Image Search</a></li>
    <p>Link to Yandex's reverse image webpage.</p>
 </ul>
