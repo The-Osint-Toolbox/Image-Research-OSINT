@@ -60,6 +60,8 @@
    <p>Reverse Image Search is an image retrieval query technique based on content - CBIR (content based image retrieval).</p>
   <li><a href="https://rootabout.com/">Root About</a></li>
    <p>Reverse image search the Internet Archive and Open Library.</p>
+  <li><a href="https://sightengine.com/">Sight Engine</a></li> 
+    <p>Content moderation and image analysis.</p>>
   <li><a href="https://pic.sogou.com/">Sogou</a></li> 
    <p>Chinese reverse image search tool.</p>
   <li><a href="https://chrome.google.com/webstore/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci?hl=en">Search By Image</a></li>
