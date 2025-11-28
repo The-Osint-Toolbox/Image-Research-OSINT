@@ -36,6 +36,8 @@
    <p>Image Measurement is the service for measurement of an objects.</p>
   <li><a href="https://googlelens.imagesniper.eu/">Image Sniper</a></li>
     <p>Google reverse image search fix.</p>
+  <li><a href="https://imagewhisperer.org/">Image Whisperer</a></li> 
+   <p>AI media verification & research tool.</p
   <li><a href="https://infringement.report/get-started/">Infringement Report</a></li>
    <p>Aimed at businesses to help protect their images.</p>
   <li><a href="https://lenso.ai/en">Lenso</a></li>
