@@ -51,7 +51,9 @@
   <li><a href="https://digitaldigging.org/hans/">Photo Finder</a></li> 
    <p>Search social media platforms for images via Google.</p>  
   <li><a href="https://picarta.ai/">Picarta</a></li>
-    <p>Picarta will predict where a photo has been taken in the world using Artificial Intelligence.</p>
+   <p>Picarta will predict where a photo has been taken in the world using Artificial Intelligence.</p>
+  <li><a href="https://picdetective.com/">Pic Detective</a></li> 
+    <p>Find where a photo came from, who else is using it, or grab a higher quality version.</p>
   <li><a href="https://profileimageintel.com/">Profile Image Intel</a></li> 
    <p>Discover when profile pictures were uploaded across social media platforms.</p>
   <li><a href="https://www.repostsleuth.com/search">Repost Sleuth</a></li>
