@@ -60,6 +60,8 @@
    <p>Reverse image search tool for Reddit.</p>
   <li><a href="https://reverse-image-search.org/">Reverse Image Search</a></li>
    <p>Reverse Image Search is an image retrieval query technique based on content - CBIR (content based image retrieval).</p>
+     <li><a href="https://imglift.app/">Imglift</a></li>
+   <p>scan your image and get optimization to metadata management.</p> 
   <li><a href="https://rootabout.com/">Root About</a></li>
    <p>Reverse image search the Internet Archive and Open Library.</p>
   <li><a href="https://sightengine.com/">Sight Engine</a></li> 
