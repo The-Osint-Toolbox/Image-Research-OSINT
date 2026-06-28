@@ -30,6 +30,8 @@
    <p>GVision is a reverse image search app that use Google Cloud Vision API to detect landmarks and web entities from images, helping you gather valuable information quickly and easily.</p>
   <li><a href="https://imageidentify.com/">Image Identity</a></li>
    <p>Image recognition site – just drag your image & identify.</p>
+  <li><a href="https://imglift.app/">Imglift</a></li>
+    <p>Scan your image and get optimization to metadata management.</p> 
   <li><a href="https://chat.openai.com/g/g-wx1eLTbGL-image-locator">Image Locator</a></li>
    <p>Analyzes images to identify locations, explains reasoning. Requires ChatGPT Plus.</p>
   <li><a href="https://imagemeasurement.online/image/select">Image Measurement</a></li> 
@@ -60,8 +62,6 @@
    <p>Reverse image search tool for Reddit.</p>
   <li><a href="https://reverse-image-search.org/">Reverse Image Search</a></li>
    <p>Reverse Image Search is an image retrieval query technique based on content - CBIR (content based image retrieval).</p>
-     <li><a href="https://imglift.app/">Imglift</a></li>
-   <p>scan your image and get optimization to metadata management.</p> 
   <li><a href="https://rootabout.com/">Root About</a></li>
    <p>Reverse image search the Internet Archive and Open Library.</p>
   <li><a href="https://sightengine.com/">Sight Engine</a></li> 
