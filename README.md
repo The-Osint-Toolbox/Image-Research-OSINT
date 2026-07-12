@@ -24,6 +24,8 @@
    <p>Link to Google's reverse image webpage.</p>
   <li><a href="https://duplichecker.com/reverse-image-search.php">Duplichecker</a></li>
    <p>You can search for an image by uploading + with URL or typing the keyword or any word you want to explore related to images.</p>
+ <li><a href="https://www.reverseimagesearch.com/">AI Reverse Image Search</a></li>
+   <p>Searches billions of indexed images across the web to identify the original source and related matches.</p>
   <li><a href="https://huggingface.co/spaces/gokaygokay/Florence-2">Florence-2</a></li>
    <p>AI reverse image search.</p>
   <li><a href="https://github.com/GONZOsint/gvision">Gonzo GVision</li>
@@ -44,6 +46,8 @@
    <p>Aimed at businesses to help protect their images.</p>
   <li><a href="https://lenso.ai/en">Lenso</a></li>
     <p>AI Reverse Image Search</p>
+  <li><a href="https://www.reverseimagesearch.org/">Reverse Image Search</a></li>
+   <p>Uses advanced AI to analyze visual patterns and discover similar images from multiple online sources.</p>
   <li><a href="https://huggingface.co/NemesisAlm">NemesisAlm</a></li>
     <p>StreetClip Model used for classification - 92 countries supported</p>
   <li><a href="https://www.numlookup.com/reverse-image-search">NumLookup</a></li>
