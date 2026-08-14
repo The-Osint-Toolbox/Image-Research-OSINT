@@ -190,5 +190,6 @@
  <li><a href="https://photoscissors.com/">Photo Scissors</a></li>
  <li><a href="https://www.remove.bg/">Remove Background</a></li>
  <li><a href="https://www.restorephotos.io/">Restore Image</a></li>
+<li><a href="https://github.com/Xquik-dev/x-twitter-scraper">Xquik</a> - Independent X (Twitter) data API for search, follower export, monitors, and MCP.</li>
 </ul>
 
