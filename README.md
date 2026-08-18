@@ -167,6 +167,7 @@
  <li><a href="https://imagewhisperer.org/">Image Whisperer</a></li>
  <li><a href="https://invid-project.eu/">Invid Project</a></li>
  <li><a href="https://mever.iti.gr/forensics/">MeVer</a></li>
+ <li><a href="https://metadataremover.ai/metadata-viewer">Metadata Viewer</a></li>
  <li><a href="https://29a.ch/photo-forensics/#forensic-magnifier">Photo-Forensics</a></li>
  <li><a href="https://www.thexifer.net/">The Exifer</a></li>
  <li><a href="https://www.verexif.com/en/">Verexif</a></li>
