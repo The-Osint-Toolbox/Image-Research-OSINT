@@ -130,6 +130,8 @@
   <p>Can detect and locate human faces in an image and return high-precision face bounding box results.</p>
  <li><a href="https://facecheck.id/">Facecheck</a></li>
   <p>Upload a face of a person of interest and discover their social media profiles, appearances in blogs, video, and news websites.</p>
+ <li><a href="https://face2social.com/">Face2social</a></li>
+  <p>Searches public social media profile pictures on Instagram, Facebook, TikTok and X for a match to an uploaded photo; it does not crawl the wider web.</p>
  <li><a href="https://faceagle.com/">Faceagle</a></li>
   <p>A search engine for face, Search among 4,190,646 face images.</p>
  <li><a href="https://faceonlive.com/face-search-online/">FaceOnLive</a></li>  
