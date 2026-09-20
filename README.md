@@ -88,6 +88,8 @@
    <p>Photo location finder uses advanced AI image geolocation and reverse photo location search to identify GPS coordinates from pictures.</p>
   <li><a href="https://yandex.com/images/">Yandex Image Search</a></li>
    <p>Link to Yandex's reverse image webpage.</p>
+  <li><a href="https://privacyleak.ai/">PrivacyLeak</a></li>
+   <p>Face and reverse image search for publicly posted photos on adult websites.</p> 
 </ul>
 <br></br>
 <table>
