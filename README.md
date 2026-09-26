@@ -163,6 +163,7 @@
  <li><a href="https://exiftool.lucasgelfond.online/">Exif Tool by Lucas Gelfond</a></li>
  <li><a href="https://exiftool.org/">Exif Tool by Phil Harvey</a></li>
  <li><a href="https://fotoforensics.com/">Foto Forensics</a></li>
+ <li><a href="https://geotag.world/">GeoTag.world</a></li>
  <li><a href="https://imageforensic.org/">Image Forensics</a></li>
  <li><a href="https://imagewhisperer.org/">Image Whisperer</a></li>
  <li><a href="https://invid-project.eu/">Invid Project</a></li>
