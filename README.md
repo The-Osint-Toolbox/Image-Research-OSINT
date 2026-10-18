@@ -64,6 +64,8 @@
    <p>Discover when profile pictures were uploaded across social media platforms.</p>
   <li><a href="https://www.repostsleuth.com/search">Repost Sleuth</a></li>
    <p>Reverse image search tool for Reddit.</p>
+  <li><a href="https://reverseimage.app/">Reverse Image Search Anywhere</a></li>
+   <p>Free browser extension for searching an image across Google Lens, Yandex, Bing and TinEye; supports page-region capture and pasted images. Image uploads to search engines may expose sensitive material.</p>
   <li><a href="https://reverse-image-search.org/">Reverse Image Search</a></li>
    <p>Reverse Image Search is an image retrieval query technique based on content - CBIR (content based image retrieval).</p>
   <li><a href="https://rootabout.com/">Root About</a></li>
