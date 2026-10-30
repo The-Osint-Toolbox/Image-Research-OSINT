@@ -52,6 +52,8 @@
     <p>StreetClip Model used for classification - 92 countries supported</p>
   <li><a href="https://www.numlookup.com/reverse-image-search">NumLookup</a></li>
     <p>AI-powered reverse image search companion. Harnessing the power of advanced machine learning algorithms.</p>
+  <li><a href="https://oceanir.ai/">Oceanir</a></li>
+   <p>Estimates where a photo was taken using visible clues without GPS metadata. Freemium; estimates require independent verification.</p>
   <li><a href="https://osintcombine.com/reverse-image-analyzer/">Osint Combine</a></li>
    <p>This tool is designed to make reverse image searching more effective. It provide tabulated results from Google & Yandex.</p>
   <li><a href="https://digitaldigging.org/hans/">Photo Finder</a></li> 
