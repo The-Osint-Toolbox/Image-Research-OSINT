@@ -10,6 +10,10 @@
   </tr>
 </table>
 <ul>
+  <li><a href="https://www.reverseimagesearch.com/">AI Reverse Image Search</a></li>
+   <p>Searches billions of indexed images across the web to identify the original source and related matches.</p>
+  <li><a href="https://retrace.archivarix.net/">Archivarix Retrace</a></li>
+   <p>Trace where a picture came from: earlier copies, the date it first appeared online and the place on a map, each with a source link.</p>
   <li><a href="https://berify.com/">Berify</a></li>
    <p>Reverse image search to help you Find stolen Images and Videos.</p> 
   <li><a href="https://bing.com/images/feed/">Bing Image Search</a></li>
@@ -52,6 +56,8 @@
     <p>StreetClip Model used for classification - 92 countries supported</p>
   <li><a href="https://www.numlookup.com/reverse-image-search">NumLookup</a></li>
     <p>AI-powered reverse image search companion. Harnessing the power of advanced machine learning algorithms.</p>
+  <li><a href="https://oceanir.ai/">Oceanir</a></li>
+   <p>Estimates where a photo was taken using visible clues without GPS metadata. Freemium; estimates require independent verification.</p>
   <li><a href="https://osintcombine.com/reverse-image-analyzer/">Osint Combine</a></li>
    <p>This tool is designed to make reverse image searching more effective. It provide tabulated results from Google & Yandex.</p>
   <li><a href="https://digitaldigging.org/hans/">Photo Finder</a></li> 
@@ -65,7 +71,9 @@
   <li><a href="https://www.repostsleuth.com/search">Repost Sleuth</a></li>
    <p>Reverse image search tool for Reddit.</p>
   <li><a href="https://reverseimage.app/">Reverse Image Search Anywhere</a></li>
-   <p>Free browser extension and web tool for searching images with Google Lens, Yandex, Bing Visual and TinEye; can search a cropped region or images on sites where image URLs are inaccessible.</p>
+   <p>Free browser web tool for searching images with Google Lens, Yandex, Bing Visual and TinEye; can search a cropped region or images on sites where image URLs are inaccessible.</p>
+  <li><a href="https://reverse-image-search.org/">Reverse Image Search</a></li>
+   <p>Free browser extension for searching an image across Google Lens, Yandex, Bing and TinEye; supports page-region capture and pasted images. Image uploads to search engines may expose sensitive material.</p>
   <li><a href="https://reverse-image-search.org/">Reverse Image Search</a></li>
    <p>Reverse Image Search is an image retrieval query technique based on content - CBIR (content based image retrieval).</p>
   <li><a href="https://rootabout.com/">Root About</a></li>
