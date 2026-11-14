@@ -166,9 +166,6 @@
 <ul>
  <li><a href="https://isitai.com/ai-image-detector/">AI-Generated Image Detector</a></li>
  <li><a href="https://huggingface.co/spaces/umm-maybe/AI-image-detector">AI Image Detector</a></li>
- <li><a href="https://www.aiornot.com/">Web - and API-based AI Image Detector</a></li>
- <li><a href="https://isthisaigenerated.app/site/">isthisaigenerated.app — free AI image checker</a></li>
- <li><a href="https://wedetect.ai/ai-or-not">wedetect.ai - free, no-login AI image detector (probability, not a yes/no)</a></li>
  <li><a href="https://www.aiornot.com/">Aiornot Web - and API-based AI Image Detector</a></li>
  <li><a href="https://exifdata.com/">Exif Data</a></li>
  <li><a href="https://exifeditor.io/">Exif Editor</a></li>
