@@ -10,6 +10,8 @@
   </tr>
 </table>
 <ul>
+  <li><a href="https://www.reverseimagesearch.com/">AI Reverse Image Search</a></li>
+   <p>Searches billions of indexed images across the web to identify the original source and related matches.</p>
   <li><a href="https://retrace.archivarix.net/">Archivarix Retrace</a></li>
    <p>Trace where a picture came from: earlier copies, the date it first appeared online and the place on a map, each with a source link.</p>
   <li><a href="https://berify.com/">Berify</a></li>
