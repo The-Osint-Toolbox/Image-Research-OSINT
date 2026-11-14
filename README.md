@@ -167,6 +167,7 @@
  <li><a href="https://isitai.com/ai-image-detector/">AI-Generated Image Detector</a></li>
  <li><a href="https://huggingface.co/spaces/umm-maybe/AI-image-detector">AI Image Detector</a></li>
  <li><a href="https://www.aiornot.com/">Aiornot Web - and API-based AI Image Detector</a></li>
+ <li><a href="https://checkthatphoto.com/">CheckThatPhoto</a> – Checks a photo for signs of AI generation and reports inconclusive findings where applicable.</li>
  <li><a href="https://exifdata.com/">Exif Data</a></li>
  <li><a href="https://exifeditor.io/">Exif Editor</a></li>
  <li><a href="https://github.com/minimallyexceptional/exif-hound">EXIF Hound</a></li>
