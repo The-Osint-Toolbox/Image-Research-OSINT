@@ -182,6 +182,7 @@
  <li><a href="https://isthisaigenerated.app/site/">Isthisaigenerated — free AI image checker</a></li>
  <li><a href="https://mever.iti.gr/forensics/">MeVer</a></li>
  <li><a href="https://metadataremover.ai/metadata-viewer">Metadata Viewer</a></li>
+ <li><a href="https://freegpsmapcamera.com/tools/photo-location-checker">Photo Location Checker</a></li>
  <li><a href="https://29a.ch/photo-forensics/#forensic-magnifier">Photo-Forensics</a></li>
  <li><a href="https://www.thexifer.net/">The Exifer</a></li>
  <li><a href="https://www.verexif.com/en/">Verexif</a></li>
