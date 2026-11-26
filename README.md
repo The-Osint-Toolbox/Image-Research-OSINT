@@ -96,6 +96,8 @@
    <p>Discover when images first appeared online.</p>  
   <li><a href="https://www.whereisthisphoto.com/">Where Is This Photo</a></li>
    <p>Photo location finder uses advanced AI image geolocation and reverse photo location search to identify GPS coordinates from pictures.</p>
+  <li><a href="https://wherematch.com/">WhereMatch</a></li>
+   <p>WhereMatch estimates where a photo was taken from what is visible in it, with no EXIF or GPS metadata needed. Free, no account. Results are estimates and should be independently verified.</p>
   <li><a href="https://yandex.com/images/">Yandex Image Search</a></li>
    <p>Link to Yandex's reverse image webpage.</p>
 </ul>
