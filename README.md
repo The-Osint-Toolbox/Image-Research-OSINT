@@ -26,6 +26,8 @@
    <p>AI-Powered Geolocation.</p>
   <li><a href="https://images.google.com/">Google Image Search</a></li>
    <p>Link to Google's reverse image webpage.</p>
+  <li><a href="https://apify.com/johnvc/google-lens-api">Google Lens API</a></li>
+   <p>Runs a Google Lens search on an image URL or uploaded image and returns visual matches or exact matches, each with title, source, link and thumbnail. Needs an Apify account; billed per result.</p>
   <li><a href="https://duplichecker.com/reverse-image-search.php">Duplichecker</a></li>
    <p>You can search for an image by uploading + with URL or typing the keyword or any word you want to explore related to images.</p>
  <li><a href="https://www.reverseimagesearch.com/">AI Reverse Image Search</a></li>
